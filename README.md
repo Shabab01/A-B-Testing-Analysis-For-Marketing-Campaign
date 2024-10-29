@@ -1,5 +1,7 @@
 # A/B Testing Analysis
 
+![WhatsApp Image 2024-10-29 at 23 17 49_597be5da](https://github.com/user-attachments/assets/dcf9088d-88eb-4e49-920b-5dd6f3e97a1e)
+
 This repository contains a detailed analysis of an A/B testing experiment, performed to compare the effectiveness of advertising campaigns across Facebook and Google AdWords. The analysis aims to draw meaningful insights regarding clicks, conversions, and other key performance indicators (KPIs) by leveraging data-driven statistical and visualization techniques.
 
 ## Table of Contents
